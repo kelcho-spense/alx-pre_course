@@ -1,0 +1,15 @@
+*~
+*.elc
+*\#*
+*_archive
+*_flymake.*
+/eshell/history
+/eshell/lastdir
+*.rel
+.dir-locals.el
+.projectile
+flycheck_*.el
+/server/
+.projectile
+.cast/
+dist/
